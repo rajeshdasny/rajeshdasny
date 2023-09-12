@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++ and Javascript
 - 💞️ I’m looking to collaborate on Software development Projects
 - 📫 How to reach me RAJESH.DAS67@student.qcc.cuny.edu
+- Know how to work with Python, C++, HTML, CSS, Javascript, and SQL
 
 <!---
 rajeshdasny/rajeshdasny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
